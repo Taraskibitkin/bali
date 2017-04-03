@@ -1,0 +1,1 @@
+ {{ session.has('authIdentity') ? 'cos-sm-6 col-md-6 col-xs-12' : 'cos-sm-8 col-md-8 col-xs-12' }}
